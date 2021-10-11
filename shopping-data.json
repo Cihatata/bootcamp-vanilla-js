@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "iPhone6S",
+      "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 799
+    },
+    {
+      "id": 1,
+      "name": "iPhone 5S",
+      "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 349
+    },
+    {
+      "id": 2,
+      "name": "Macbook",
+      "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 1499
+    },
+    {
+      "id": 3,
+      "name": "Macbook Air",
+      "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 999
+    },
+    {
+      "id": 4,
+      "name": "Macbook Air 2013",
+      "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 599
+    },
+    {
+      "id": 5,
+      "name": "Macbook Air 2012",
+      "description": "Kogi skateboard tattooed, whatever portland fingerstache coloring book mlkshk leggings flannel dreamcatcher.",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 499
+    },
+    {
+      "id": 6,
+      "name": "Hacisakir Sabun",
+      "description": "Temizligin adresi. ",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 40
+    },
+    {
+      "id": 7,
+      "name": "Timemore Chestnut C2 Manuel Kahve Değirmeni",
+      "description": "Türk kahvesi için verim alamazsınız. Filtre kahve için 18 - 20 klik muhteşem iş çıkarabilirsiniz. C2’ye sağlamlılık hissiyatı da kazandırılmış. Tavsiye ederim.",
+      "imageUrl": "https://productimages.hepsiburada.net/s/40/500/10685065855026.jpg",
+      "price": 100
+    },
+    {
+      "id": 8,
+      "name": "Logitech MX Keys",
+      "description": "Logitech MX Keys Aydınlatmalı Gelişmiş Kablosuz Türkçe Klavye - Siyah",
+      "imageUrl": "https://productimages.hepsiburada.net/s/121/1500/110000071343254.jpg",
+      "price": 110
+    }
+  ]
+}
