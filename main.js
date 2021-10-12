@@ -45,7 +45,7 @@ const HeaderEl = () => {
 }
 
 const ProductCard = (product) => {
-  console.log(product.imageUrl);
+
   return `
     <div class="product-card">
       <img src="${product.imageUrl}" alt="product-item">
@@ -65,7 +65,7 @@ const ProductCard = (product) => {
 }
 
 const renderProductCard = (products) => {
-  // console.log(products);
+  // console.log(products);               <ProductCard item={item} />
   const productEl = products.map((item) => ProductCard(item))
   return productEl.join(' ')
   // console.log(productEl);
@@ -78,6 +78,4 @@ const firstRender = async () => {
   headerEl.insertAdjacentHTML('afterend', MainLayout(renderProductCard(products)));
 }
 
-window.addEventListener('onload', firstRender);
-
-firstRender();
+window.addEventListener('load', firstRender);
